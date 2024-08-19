@@ -1,7 +1,7 @@
 # GeneticOpt
 Method to optmize the sensor placement for an vehicle using CARLAv0.9.10. 
 
-A full description of the method is published [here](https://ieeexplore.ieee.org/document/9655606)
+A full description of the method is published [here](https://ieeexplore.ieee.org/document/9655606).
 
 ```
 @ARTICLE{Berens2022,
